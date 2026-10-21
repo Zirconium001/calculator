@@ -45,7 +45,7 @@ calculator/
 
 No installation or build step is required.
 
-Follow the link: 
+Follow the link: https://zirconium001.github.io/calculator/
 
 ## How to Use
 
